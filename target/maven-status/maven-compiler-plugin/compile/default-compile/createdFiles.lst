@@ -1,0 +1,11 @@
+com\wm\service\IBookService.class
+com\wm\domain\Book.class
+com\wm\controller\uitls\R.class
+com\wm\controller\BookController.class
+com\wm\controller\uitls\ProjectExceptionAdvice.class
+com\wm\service\BookService.class
+com\wm\service\impl\IBookServiceImpl.class
+com\wm\service\impl\BookServiceImpl.class
+com\wm\dao\BookDao.class
+com\wm\Application.class
+com\wm\config\MPConfig.class
